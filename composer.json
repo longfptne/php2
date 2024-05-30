@@ -1,0 +1,14 @@
+{
+    "name": "user/optap",
+    "autoload": {
+        "psr-4": {
+            "User\\ontap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "longfptne",
+            "email": "longtienkaka@gmail.com"
+        }
+    ]
+}
